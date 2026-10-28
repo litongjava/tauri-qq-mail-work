@@ -133,3 +133,6 @@ node_modules/
 dist/
 dist.zip
 package-lock.json
+
+# Tauri generated schemas
+/gen/schemas/
